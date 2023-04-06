@@ -1,0 +1,53 @@
+.red {
+    color: red;
+}
+
+.orange {
+    color: orange;
+}
+
+.purple {
+	color: purple;
+}
+
+.green {
+	color: green;
+}
+
+.darkblue {
+	color: darkblue;
+}
+
+
+
+
+
+
+
+
+
+/****** DO NOT CHANGE THE STYLES BELOW THIS ******/
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    margin: 0;
+    display: block;
+    font-size: 1em;
+    padding: 0.25em;
+    font-weight: 700;
+}
+.muni li {
+    display: inline-block;
+}
